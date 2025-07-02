@@ -11,7 +11,7 @@ tags:
     - syntax-highlighting
     - blockquote
 ---
-> Howdy! I am the page child of hello page. SSS
+> Howdy! I am the page child of hello page. 
 > 
 > ― **Child**
 
